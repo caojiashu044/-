@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caoji\\Desktop\\\u6A21\u62DF\u64CD\u4F5C\u7CFB\u7EDF\\wan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F2162E-D408-42EE-8E54-E788354253EA}|wan\\wan.vcxproj|C:\\Users\\caoji\\Desktop\\\u6A21\u62DF\u64CD\u4F5C\u7CFB\u7EDF\\wan\\wan\\wan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8F2162E-D408-42EE-8E54-E788354253EA}|wan\\wan.vcxproj|solutionrelative:wan\\wan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wan.cpp",
+              "DocumentMoniker": "C:\\Users\\caoji\\Desktop\\\u6A21\u62DF\u64CD\u4F5C\u7CFB\u7EDF\\wan\\wan\\wan.cpp",
+              "RelativeDocumentMoniker": "wan\\wan.cpp",
+              "ToolTip": "C:\\Users\\caoji\\Desktop\\\u6A21\u62DF\u64CD\u4F5C\u7CFB\u7EDF\\wan\\wan\\wan.cpp",
+              "RelativeToolTip": "wan\\wan.cpp",
+              "ViewState": "AQIAADoAAAAAAAAAAAApwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T06:45:08.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

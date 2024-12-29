@@ -1,0 +1,18 @@
+﻿  wan.cpp
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(184,6): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(417,14): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(450,27): warning C4101: “b”: 未引用的局部变量
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(450,24): warning C4101: “i”: 未引用的局部变量
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(743,14): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(902,13): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(1106,7): warning C4101: “fcbp”: 未引用的局部变量
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(1251,12): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(1334,12): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(1473,15): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(1694,12): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(1998,12): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(2177,12): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(2507,16): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(2600,14): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\caoji\Desktop\模拟操作系统\wan\wan\wan.cpp(2678,14): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+  wan.vcxproj -> C:\Users\caoji\Desktop\模拟操作系统\wan\x64\Debug\wan.exe

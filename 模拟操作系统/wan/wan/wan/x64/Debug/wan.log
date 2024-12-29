@@ -1,0 +1,16 @@
+﻿  wan.cpp
+C:\Users\Lenovo\OneDrive\Desktop\wan\wan\wan.cpp(175,6): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\Lenovo\OneDrive\Desktop\wan\wan\wan.cpp(509,14): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\OneDrive\Desktop\wan\wan\wan.cpp(670,13): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Lenovo\OneDrive\Desktop\wan\wan\wan.cpp(734,14): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Lenovo\OneDrive\Desktop\wan\wan\wan.cpp(925,12): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Lenovo\OneDrive\Desktop\wan\wan\wan.cpp(1074,12): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Lenovo\OneDrive\Desktop\wan\wan\wan.cpp(1161,12): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Lenovo\OneDrive\Desktop\wan\wan\wan.cpp(1299,15): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Lenovo\OneDrive\Desktop\wan\wan\wan.cpp(1509,12): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Lenovo\OneDrive\Desktop\wan\wan\wan.cpp(1837,12): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Lenovo\OneDrive\Desktop\wan\wan\wan.cpp(1982,12): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Lenovo\OneDrive\Desktop\wan\wan\wan.cpp(2312,16): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Lenovo\OneDrive\Desktop\wan\wan\wan.cpp(2405,14): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\OneDrive\Desktop\wan\wan\wan.cpp(2483,14): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+  wan.vcxproj -> C:\Users\Lenovo\OneDrive\Desktop\wan\wan\x64\Debug\wan.exe

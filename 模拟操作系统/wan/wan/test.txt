@@ -1,0 +1,7 @@
+cd /
+dir
+create testfile
+type testfile
+write testfile "Hello, World!"
+type testfile
+dir
